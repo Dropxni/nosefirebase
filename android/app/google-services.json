@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81277949788",
+    "project_id": "nosefirebase",
+    "storage_bucket": "nosefirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81277949788:android:6bd49b1502f3cda71bd399",
+        "android_client_info": {
+          "package_name": "com.example.nosefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJcgRhYg-eInRZmJrMffwPBsnnC04LKgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
